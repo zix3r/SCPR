@@ -1,0 +1,9 @@
+D:\etc\Hacking\SCPR\SCPR\bin\Release\SCPR.exe.config
+D:\etc\Hacking\SCPR\SCPR\bin\Release\SCPR.exe
+D:\etc\Hacking\SCPR\SCPR\bin\Release\SCPR.pdb
+D:\etc\Hacking\SCPR\SCPR\obj\Release\SCPR.Form1.resources
+D:\etc\Hacking\SCPR\SCPR\obj\Release\SCPR.Properties.Resources.resources
+D:\etc\Hacking\SCPR\SCPR\obj\Release\SCPR.csproj.GenerateResource.cache
+D:\etc\Hacking\SCPR\SCPR\obj\Release\SCPR.csproj.CoreCompileInputs.cache
+D:\etc\Hacking\SCPR\SCPR\obj\Release\SCPR.exe
+D:\etc\Hacking\SCPR\SCPR\obj\Release\SCPR.pdb

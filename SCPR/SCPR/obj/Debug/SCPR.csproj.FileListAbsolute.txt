@@ -1,0 +1,10 @@
+D:\etc\Hacking\SCPR\SCPR\bin\Debug\SCPR.exe.config
+D:\etc\Hacking\SCPR\SCPR\bin\Debug\SCPR.exe
+D:\etc\Hacking\SCPR\SCPR\bin\Debug\SCPR.pdb
+D:\etc\Hacking\SCPR\SCPR\obj\Debug\SCPR.csprojAssemblyReference.cache
+D:\etc\Hacking\SCPR\SCPR\obj\Debug\SCPR.Form1.resources
+D:\etc\Hacking\SCPR\SCPR\obj\Debug\SCPR.Properties.Resources.resources
+D:\etc\Hacking\SCPR\SCPR\obj\Debug\SCPR.csproj.GenerateResource.cache
+D:\etc\Hacking\SCPR\SCPR\obj\Debug\SCPR.csproj.CoreCompileInputs.cache
+D:\etc\Hacking\SCPR\SCPR\obj\Debug\SCPR.exe
+D:\etc\Hacking\SCPR\SCPR\obj\Debug\SCPR.pdb
